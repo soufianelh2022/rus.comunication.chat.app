@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "app_id": "com.m3max.maxnova.simulator",
+  "app_id": "com.rus.comunication.chat.app",
   "revision": 2,
   "ads_enabled": true,
   "test_mode": true,
